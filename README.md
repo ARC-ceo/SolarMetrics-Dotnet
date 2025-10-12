@@ -26,7 +26,7 @@
 ## Como rodar a aplicação
 
 ### Pré-requisitos
-- .NET 7 SDK ou superior  
+- .NET 9 SDK ou superior  
 - IDE recomendada: **Rider**  
 - Oracle Database
 
@@ -39,28 +39,20 @@ git clone https://github.com/ARC-ceo/SolarMetrics-Dotnet.git
 
 2. Abra o projeto no **Rider**.  
 
-3. Configure a connection string no `appsettings.json`:
-```json
-"ConnectionStrings": {
-  "DefaultConnection": "User Id=SEU_USUARIO;Password=SUA_SENHA;Data Source=ORACLE_DB;"
-}
-```
 
-4. Execute a aplicação:  
+3. Execute a aplicação:  
 ```bash
 dotnet run
 ```
 
-5. A API estará disponível em: `http://localhost:5000` (ou porta configurada no `launchSettings.json`).
+4. A API estará disponível em: `http://localhost:5090`.
 
 ### Testando a API
 A documentação dos endpoints está disponível via **Swagger UI**:  
-`http://localhost:5000/swagger/index.html`
+`http://localhost:5090/index.html`
 
 ## Diagramas
 
-### Diagrama de Classes
-![Diagrama de classes](diagram_classes.jpg)
 
 ### Modelo Físico
 ![Arquitetura](MER.png)
@@ -68,10 +60,6 @@ A documentação dos endpoints está disponível via **Swagger UI**:
 ## Apresentação
 Assista ao vídeo explicando a proposta tecnológica, o público-alvo e os problemas que a aplicação resolve:  
 [Apresentação SolarMetrics](https://youtu.be/Fcza8JBvsyw)
-
-## Video demonstrativo
-Assista ao vídeo para a demonstração e teste da API na prática:  
-[Apresentação SolarMetrics](https://www.youtube.com/seu_link_aqui)
 
 ## Endpoints da API
 
@@ -86,12 +74,11 @@ A API foi documentada com **Swagger / OpenAPI**, oferecendo exemplos completos d
 | POST   | /cliente       | Criar cadastro do cliente                   |
 | GET    | /cliente/{id}  | Buscar cadastro do cliente                  |
 | DELETE | /cliente/{id}  | Deletar cadastro do cliente                 |
-| PATCH  | /cliente/{id}  | Atualiza o campo desejado do cliente       |
 
 > Para todos os endpoints, exemplos detalhados de request e response estão disponíveis no **Swagger UI**.
 
 ## Tecnologias utilizadas
-- .NET 7 / C#  
+- .NET 9 / C#  
 - ASP.NET Core Web API  
 - Entity Framework Core  
 - Oracle Database  
