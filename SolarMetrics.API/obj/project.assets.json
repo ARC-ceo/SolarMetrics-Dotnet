@@ -3755,11 +3755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FIAP\\Challenge - Segundo\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\SolarMetrics.API.csproj",
+      "projectUniqueName": "E:\\FIAP\\Challenge - Segundo\\Sprint2\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\SolarMetrics.API.csproj",
       "projectName": "SolarMetrics.API",
-      "projectPath": "E:\\FIAP\\Challenge - Segundo\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\SolarMetrics.API.csproj",
+      "projectPath": "E:\\FIAP\\Challenge - Segundo\\Sprint2\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\SolarMetrics.API.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "E:\\FIAP\\Challenge - Segundo\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\obj\\",
+      "outputPath": "E:\\FIAP\\Challenge - Segundo\\Sprint2\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"

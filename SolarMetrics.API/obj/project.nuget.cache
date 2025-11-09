@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2fafQpJwTB8=",
+  "dgSpecHash": "zZ60rdPnHsI=",
   "success": true,
-  "projectFilePath": "E:\\FIAP\\Challenge - Segundo\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\SolarMetrics.API.csproj",
+  "projectFilePath": "E:\\FIAP\\Challenge - Segundo\\Sprint2\\.NET\\Projeto\\SolarMetrics\\SolarMetrics.API\\SolarMetrics.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",

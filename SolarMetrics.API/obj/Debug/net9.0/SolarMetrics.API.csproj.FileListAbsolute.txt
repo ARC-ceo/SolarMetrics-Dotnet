@@ -140,3 +140,4 @@ E:\FIAP\Challenge - Segundo\.NET\Projeto\SolarMetrics\SolarMetrics.API\obj\Debug
 E:\FIAP\Challenge - Segundo\.NET\Projeto\SolarMetrics\SolarMetrics.API\obj\Debug\net9.0\SolarMetrics.API.genruntimeconfig.cache
 E:\FIAP\Challenge - Segundo\.NET\Projeto\SolarMetrics\SolarMetrics.API\obj\Debug\net9.0\ref\SolarMetrics.API.dll
 E:\FIAP\Challenge - Segundo\.NET\Projeto\SolarMetrics\SolarMetrics.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\FIAP\Challenge - Segundo\.NET\Projeto\SolarMetrics\SolarMetrics.API\obj\Debug\net9.0\SolarMetrics.API.sourcelink.json

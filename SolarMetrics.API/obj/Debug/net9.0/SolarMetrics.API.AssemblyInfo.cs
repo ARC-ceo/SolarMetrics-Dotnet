@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolarMetrics.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1c52a6413f1ea747b143b1b116c07b3b57c811")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolarMetrics.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolarMetrics.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
