@@ -11,6 +11,15 @@
 - Consulta de dados históricos e em tempo real.  
 - Atualização e sincronização de informações entre backend e aplicativos móveis.
 
+## Requisitos Não Funcionais
+- **Desempenho:** O sistema deve processar e disponibilizar dados em tempo real com latência mínima.  
+- **Segurança:** Proteção de dados sensíveis, autenticação e autorização de usuários.  
+- **Disponibilidade:** Sistema deve possuir alta disponibilidade (mínimo 99,5%) para acesso contínuo.  
+- **Escalabilidade:** Capacidade de suportar aumento no número de sensores e usuários sem perda de performance.  
+- **Manutenibilidade:** Código e arquitetura organizados para facilitar atualizações e correções.  
+- **Compatibilidade:** Suporte a múltiplos dispositivos móveis e integração com diferentes sensores IoT.  
+- **Confiabilidade:** Garantir integridade dos dados capturados e armazenados, evitando perdas ou inconsistências.  
+
 ## Problemas que a aplicação resolve
 - Falta de visibilidade sobre a geração e consumo de energia solar.  
 - Dificuldade em monitorar ocupação e eficiência de sistemas.  
