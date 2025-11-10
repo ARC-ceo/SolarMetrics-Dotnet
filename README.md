@@ -4,6 +4,11 @@
 
 **SolarMetrics** é uma API desenvolvida para monitoramento e análise de energia solar, fornecendo dados em tempo real sobre sensores, usuários e ocupação de sistemas. A aplicação permite integrar sensores IoT, gerar relatórios e fornecer dados para aplicativos móveis ou dashboards web. Nosso objetivo é fornecer uma solução confiável para monitoramento inteligente de energia solar, auxiliando residências e empresas a otimizarem o consumo e gerarem insights a partir dos dados coletados.
 
+## Novidades da Aplicação
+- Implementação de uma **interface Web** moderna para monitoramento e gestão.  
+- Integração da **WebAPI** com a interface web, permitindo interação em tempo real.  
+- Visualização de dados de sensores, relatórios e estatísticas diretamente no navegador.  
+
 ## Requisitos Funcionais
 - Cadastro e gerenciamento de clientes e usuários.  
 - Integração com sensores IoT para captura de dados de energia e ocupação.  
